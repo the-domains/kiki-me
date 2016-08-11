@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-datePublished: '2016-08-11T09:28:27.331Z'
-dateModified: '2016-08-11T09:24:36.268Z'
+datePublished: '2016-08-11T09:31:21.419Z'
+dateModified: '2016-08-11T09:31:06.398Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,11 +12,12 @@ description: >-
   enough time to meet many friends. Next time it will be the two of us coming
   here. She wants to meet some of my friends, but of course she wants some "us
   time” as well. Which I'm more than happy to accommodate. It might be too warm
-  to cuddle, so I have to think up some other activities we will both enjoy.
+  to cuddle, though, so I have to think up some other activities we will both
+  enjoy. Can't wait to be together again.
 via: {}
 starred: false
 sourcePath: _posts/2016-08-11-m-in-fiji-just-for-a-week-too-long-to-be-away-from-my-bab.md
 _type: Blurb
 
 ---
-I'm in Fiji. Just for a week - too long to be away from my baby, but not enough time to meet many friends. Next time it will be the two of us coming here. She wants to meet some of my friends, but of course she wants some "us time" as well. Which I'm more than happy to accommodate. It might be too warm to cuddle, so I have to think up some other activities we will both enjoy.
+I'm in Fiji. Just for a week - too long to be away from my baby, but not enough time to meet many friends. Next time it will be the two of us coming here. She wants to meet some of my friends, but of course she wants some "us time" as well. Which I'm more than happy to accommodate. It might be too warm to cuddle, though, so I have to think up some other activities we will both enjoy. Can't wait to be together again.
