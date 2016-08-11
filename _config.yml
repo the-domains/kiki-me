@@ -1,0 +1,14 @@
+name: kiki+me
+layout_spectrum: 0.23096010187266025
+typography_spectrum: 0.8791347491206484
+color:
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.403050326877189
+  lightness: 0.9364311631883395
+  saturation: 0.6354806410834299
+  rhythmicContrast: 0.9208063827592888
