@@ -1,6 +1,9 @@
 name: kiki+me
 layout_spectrum: 0.23096010187266025
 typography_spectrum: 0.8791347491206484
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#73603D'
@@ -12,3 +15,10 @@ color:
   lightness: 0.9364311631883395
   saturation: 0.6354806410834299
   rhythmicContrast: 0.9208063827592888
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
