@@ -1,20 +1,20 @@
 name: kiki+me
-layout_spectrum: 0.23096010187266025
-typography_spectrum: 0.8791347491206484
+layout_spectrum: 0.22681709355674684
+typography_spectrum: 0.42754408111795783
 opengraph:
   type: ''
   appId: ''
 color:
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
-  brandStrength: 0.403050326877189
-  lightness: 0.9364311631883395
-  saturation: 0.6354806410834299
-  rhythmicContrast: 0.9208063827592888
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.5366713858675212
+  lightness: 0.22128387447446585
+  saturation: 0.8793978376779705
+  rhythmicContrast: 0.544278698740527
 title: ''
 author:
   name: ''
@@ -22,3 +22,5 @@ author:
   email: ''
 content_rating:
   adult: false
+coverPrefs:
+  filter: false
