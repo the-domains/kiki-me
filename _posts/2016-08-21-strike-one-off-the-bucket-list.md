@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-datePublished: '2016-08-21T06:38:06.837Z'
-dateModified: '2016-08-21T06:38:05.093Z'
+datePublished: '2016-08-21T07:39:32.276Z'
+dateModified: '2016-08-21T07:39:29.923Z'
 publisher: {}
 author: []
 inFeed: true
