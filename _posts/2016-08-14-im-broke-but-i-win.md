@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Winner!
-datePublished: '2016-08-21T07:33:04.899Z'
-dateModified: '2016-08-21T07:33:03.362Z'
+datePublished: '2016-08-21T08:05:13.978Z'
+dateModified: '2016-08-21T08:05:11.656Z'
 publisher: {}
 author: []
 inFeed: true
