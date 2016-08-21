@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Strike
-datePublished: '2016-08-21T08:07:21.461Z'
-dateModified: '2016-08-21T07:39:37.819Z'
+datePublished: '2016-08-21T08:10:14.927Z'
+dateModified: '2016-08-21T08:10:09.408Z'
 publisher: {}
 author: []
 inFeed: true
@@ -17,6 +17,7 @@ _type: Blurb
 # Strike
 
 Strike one off the bucket list.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45340559-22b9-40a1-9d7a-b0022bb30c14.jpg)
 
 > I'm happy. I suck, but I'm happy.
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45340559-22b9-40a1-9d7a-b0022bb30c14.jpg)
