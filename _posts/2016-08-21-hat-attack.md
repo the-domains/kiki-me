@@ -2,13 +2,13 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Hat attack
-dateModified: '2016-08-21T08:48:13.608Z'
+datePublished: '2016-08-21T08:54:02.442Z'
+dateModified: '2016-08-21T08:54:00.805Z'
 publisher: {}
 author: []
 inFeed: true
 description: We started our day with a free massage (nice!) and finished with hat shopping.
 via: {}
-datePublished: '2016-08-21T08:48:16.409Z'
 starred: false
 sourcePath: _posts/2016-08-21-hat-attack.md
 _type: Blurb
