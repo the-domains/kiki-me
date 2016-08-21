@@ -2,13 +2,13 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-21T02:46:07.060Z'
+datePublished: '2016-08-21T02:56:17.412Z'
+dateModified: '2016-08-21T02:56:08.387Z'
 publisher: {}
 author: []
 inFeed: true
 description: Weekend = yummy food and shopping
 via: {}
-datePublished: '2016-08-21T02:47:43.444Z'
 starred: false
 sourcePath: _posts/2016-08-21-weekend-yummy-food-and-shopping.md
 _type: Blurb
@@ -19,3 +19,10 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c57a92d7-9cd3-4ed5-8817-c013a8534443.jpg)
 
 Weekend = yummy food and shopping
+
+[Nodo donuts][0]
+
+[Rogue bistro][1]
+
+[0]: http://nodo.com.au/ "Nodo donuts"
+[1]: http://www.roguebistro.com/ "Rogue bistro"
