@@ -1,17 +1,18 @@
 ---
 at__type: Article
 at__context: 'http://schema.org'
-title: Peanut butter for breakfast
-dateModified: '2016-08-14T03:09:03.249Z'
+title: ''
+datePublished: '2016-08-21T07:30:17.564Z'
+dateModified: '2016-08-21T07:30:14.296Z'
 publisher: {}
 author: []
 inFeed: true
-description: ''
+description: Peanut butter for breakfast
 via: {}
-datePublished: '2016-08-14T03:09:06.249Z'
 starred: false
 sourcePath: _posts/2016-08-14-peanut-butter-for-breakfast.md
 _type: Blurb
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3884db25-705e-41c1-80b9-c1f66521c882.jpg" /><h1>Peanut butter for breakfast</h1></article>
+Peanut butter for breakfast
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3884db25-705e-41c1-80b9-c1f66521c882.jpg)
