@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: She got a little bored…
-datePublished: '2016-08-21T07:26:40.949Z'
-dateModified: '2016-08-21T07:26:38.723Z'
+datePublished: '2016-08-21T08:00:33.704Z'
+dateModified: '2016-08-21T08:00:31.240Z'
 publisher: {}
 author: []
 inFeed: true
