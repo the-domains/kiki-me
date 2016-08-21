@@ -1,9 +1,9 @@
 ---
 at__type: Article
 at__context: 'http://schema.org'
-title: Strike one of the bucket list
-datePublished: '2016-08-21T08:29:42.778Z'
-dateModified: '2016-08-21T08:29:39.481Z'
+title: Strike one off the bucket list
+datePublished: '2016-08-21T08:30:05.329Z'
+dateModified: '2016-08-21T08:29:47.962Z'
 publisher: {}
 author: []
 inFeed: true
@@ -14,7 +14,7 @@ sourcePath: _posts/2016-08-21-strike-one-off-the-bucket-list.md
 _type: Blurb
 
 ---
-# Strike one of the bucket list
+# Strike one off the bucket list
 
 > I'm happy. I suck, but I'm happy.
 
