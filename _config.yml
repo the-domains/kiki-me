@@ -1,9 +1,5 @@
-name: kiki+me
-layout_spectrum: 0.22681709355674684
-typography_spectrum: 0.42754408111795783
-opengraph:
-  type: ''
-  appId: ''
+layout_spectrum: 0.9854764097835869
+typography_spectrum: 0.2290546577423811
 color:
   brandColors:
     - '#468966'
@@ -15,6 +11,12 @@ color:
   lightness: 0.22128387447446585
   saturation: 0.8793978376779705
   rhythmicContrast: 0.544278698740527
+coverPrefs:
+  filter: false
+name: kiki+me
+opengraph:
+  type: ''
+  appId: ''
 title: ''
 author:
   name: ''
@@ -22,5 +24,3 @@ author:
   email: ''
 content_rating:
   adult: false
-coverPrefs:
-  filter: false
