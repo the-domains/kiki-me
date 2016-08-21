@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Hat attack
-datePublished: '2016-08-21T08:11:20.168Z'
-dateModified: '2016-08-21T08:11:16.876Z'
+datePublished: '2016-08-21T08:20:34.638Z'
+dateModified: '2016-08-21T08:20:31.196Z'
 publisher: {}
 author: []
 inFeed: true
