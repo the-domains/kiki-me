@@ -2,13 +2,13 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
-dateModified: '2016-08-21T06:33:47.417Z'
+datePublished: '2016-08-21T06:38:06.837Z'
+dateModified: '2016-08-21T06:38:05.093Z'
 publisher: {}
 author: []
 inFeed: true
 description: Strike one off the bucket list.
 via: {}
-datePublished: '2016-08-21T06:33:50.383Z'
 starred: false
 sourcePath: _posts/2016-08-21-strike-one-off-the-bucket-list.md
 _type: Blurb
