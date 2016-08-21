@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Strike
-datePublished: '2016-08-21T08:10:14.927Z'
-dateModified: '2016-08-21T08:10:09.408Z'
+datePublished: '2016-08-21T08:18:56.047Z'
+dateModified: '2016-08-21T08:18:52.986Z'
 publisher: {}
 author: []
 inFeed: true
