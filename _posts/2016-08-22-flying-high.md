@@ -2,7 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Flying high
-dateModified: '2016-08-22T00:19:11.341Z'
+datePublished: '2016-08-22T00:25:37.647Z'
+dateModified: '2016-08-22T00:23:43.225Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,9 +12,8 @@ description: >-
   done with my residence in Suva. I'm apprehensive about getting everything done
   this week, but I know there will be a huge sense of relief on the other side.
 via: {}
-datePublished: '2016-08-22T00:19:33.352Z'
-sourcePath: _posts/2016-08-22-flying-high.md
 starred: false
+sourcePath: _posts/2016-08-22-flying-high.md
 _type: Blurb
 
 ---
